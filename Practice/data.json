@@ -1,0 +1,29 @@
+[
+    {
+        "id": "001",
+        "name": "Ly",
+        "math": 6.0,
+        "physics": 7.0,
+        "chemistry": 8.0,
+        "avg": 7.0,
+        "rank": "Khá"
+    },
+    {
+        "id": "002",
+        "name": "Trang",
+        "math": 7.0,
+        "physics": 8.0,
+        "chemistry": 9.0,
+        "avg": 8.0,
+        "rank": "Giỏi"
+    },
+    {
+        "id": "003",
+        "name": "Vinh",
+        "math": 7.0,
+        "physics": 8.0,
+        "chemistry": 9.0,
+        "avg": 8.0,
+        "rank": "Giỏi"
+    }
+]
